@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title> YCLA Academy - 12th CS Syllabus</title>
+        <title>YCLA Academy Search </title>
         <link rel="shortcut icon" href="https://yclaacademy.github.io/images/favicon.ico?v=2" />
         <meta charset="utf-8" />
         <link rel="stylesheet" href="https://yclaacademy.github.io/theme/css/main.css" type="text/css" />
@@ -48,7 +48,7 @@ $(document).ready(function() {
                 <h1><a href="https://yclaacademy.github.io/index.html">YCLA Academy  <strong>[You Can Learn Anything]</strong></a></h1>
                 <nav><ul>
                     <li ><a href="https://yclaacademy.github.io/">Teach For TN</a></li>
-                    <li class="active"><a href="https://yclaacademy.github.io/pages/12th-cs-syllabus.html">12th CS Syllabus</a></li>
+                    <li ><a href="https://yclaacademy.github.io/pages/12th-cs-syllabus.html">12th CS Syllabus</a></li>
                     <li ><a href="https://yclaacademy.github.io/pages/join-us.html">Join us</a></li>
 
 				   <li ><a href="https://yclaacademy.github.io/category/12th-std-cs.html">12th STD CS</a></li>
@@ -60,32 +60,21 @@ $(document).ready(function() {
                 </ul></nav>
         </header><!-- /#banner -->
 
-        
-<section id="content" class="body">    
-    <h1 class="entry-title">12th CS Syllabus</h1>
-    <p>From this week onwards, we shall discuss every weekend and holidays. </p>
-<h2>Chapter-wise videos for 12th std CS new syllabus</h2>
-<p>Dear Student and Respected Teachers, </p>
-<p>The videos are useful to learn/teach 12th STD new syllabus CS. If you have any doubts in any of the videos then, comment on TeachForTN YouTube Channel or @Teach4TN Telegram Channel or comment section below. </p>
-<ol>
-<li>Functions</li>
-<li>Data Abstraction</li>
-<li>Scoping</li>
-<li>Algorithmic Strategies</li>
-<li>Python variables and operators</li>
-<li>Control Structures</li>
-<li>Python Functions</li>
-<li>String and String Manipulations</li>
-<li>Lists, Tuples, Sets and Dictionary</li>
-<li>Python Classes and objects</li>
-<li>Database Concepts</li>
-<li>Structure Query Language(SQL)</li>
-<li>Python and CSV files</li>
-<li>Importing C++ Programs in Python</li>
-<li>Data manipulation through SQL</li>
-<li>Data visualization</li>
-</ol>
-</section>
+
+<div class="entry-content">
+<script>
+    $(document).ready(function() {
+        $('#tipue_search_input').tipuesearch({
+            'show': 8,
+            'mode': 'json',
+            'contentLocation': 'https://yclaacademy.github.io/tipuesearch_content.json'
+        });
+    });
+</script>
+<div id="tipue_search_content">
+    <div id="tipue_search_loading"></div>
+</div>
+</div>
 
         <aside id="sidebar">
 			
