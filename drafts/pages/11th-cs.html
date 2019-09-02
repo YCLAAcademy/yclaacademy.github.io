@@ -24,6 +24,18 @@
 		}
 		</script>
 		
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+<link rel="stylesheet" href="https://yclaacademy.github.io/css/standard.css">
+<script>
+        $(document).ready(function() {
+             $('#tipue_search_input').tipuesearch({
+                  'mode': 'json',
+                  'contentLocation': 'tipuesearch_content.json'
+             });
+        });
+</script>
+
 		<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5d6d6c9716b81b0012138e8b&product=inline-share-buttons' async='async'></script>
 </head>
 
@@ -55,6 +67,16 @@ December 2019!</li>
 </section>
 
         <aside id="sidebar">
+			
+			<form action="/">
+			<h2>Search </h2>
+			<div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+			
+			<div style="clear: both;"></div>
+			</form>
+			
+			<div id="tipue_search_content"></div>
+ 
                 <div class="widget">
                         <h2>Categories</h2>
                         <ul>
@@ -63,7 +85,7 @@ December 2019!</li>
                         </ul>
                 </div>
                 <div class="widget blogroll">
-                        <h2>Blogroll</h2>
+                        <h2>Official Sites </h2>
                         <ul>
                             <li><a href="http://www.tnscert.org/tnscert/ebooks/">TNSERT Books Download</a></li>
                             <li><a href="http://www.tnscert.org/tnscert/ebooks/">TN School Books Download</a></li>

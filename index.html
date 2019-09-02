@@ -24,6 +24,18 @@
 		}
 		</script>
 		
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+<link rel="stylesheet" href="https://yclaacademy.github.io/css/standard.css">
+<script>
+        $(document).ready(function() {
+             $('#tipue_search_input').tipuesearch({
+                  'mode': 'json',
+                  'contentLocation': 'tipuesearch_content.json'
+             });
+        });
+</script>
+
 		<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5d6d6c9716b81b0012138e8b&product=inline-share-buttons' async='async'></script>
 </head>
 
@@ -49,8 +61,10 @@
     <h1 class="entry-title">Teach For TN</h1>
     <p><img src="images/Teach4TN.png" alt="Picture of Teach4TN" style="float:right; "/></p>
 <p>Teach for Tamil Nadu. A non-profit educational <a href="https://www.youtube.com/channel/UC7AYCv3SJotZtyfNuT_UBqA?sub_confirmation=1">YouTube channel</a>.</p>
+<p>Our mission is</p>
 <blockquote>
-<p>Our mission to provide a free and quality school education for rural Tamil Nadu students and/or teachers in Tamil. </p>
+<p>To provide a <em><strong>free</strong></em> and <strong>quality</strong> school education for 
+<em><strong>rural</strong></em> Tamil Nadu students and/or teachers in Tamil. </p>
 </blockquote>
 <p>Teaching in Tamil with English terminology, so that both Tamil and English medium Students benefits. Our videos are useful for Students as well as Instructors. It is a sub-channel of YCLA Academy which aims for graduate-level computer Science(CS) whereas Teach For TN  aimed at school level CS. #Teach4TN</p>
 <ul>
@@ -65,6 +79,16 @@
 </section>
 
         <aside id="sidebar">
+			
+			<form action="/">
+			<h2>Search </h2>
+			<div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+			
+			<div style="clear: both;"></div>
+			</form>
+			
+			<div id="tipue_search_content"></div>
+ 
                 <div class="widget">
                         <h2>Categories</h2>
                         <ul>
@@ -73,7 +97,7 @@
                         </ul>
                 </div>
                 <div class="widget blogroll">
-                        <h2>Blogroll</h2>
+                        <h2>Official Sites </h2>
                         <ul>
                             <li><a href="http://www.tnscert.org/tnscert/ebooks/">TNSERT Books Download</a></li>
                             <li><a href="http://www.tnscert.org/tnscert/ebooks/">TN School Books Download</a></li>
