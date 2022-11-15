@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>YCLA Academy - 12th STD CS</title><link href="https://yclaacademy.github.io/" rel="alternate"></link><link href="https://yclaacademy.github.io/feeds/12th-std-cs.atom.xml" rel="self"></link><id>https://yclaacademy.github.io/</id><updated>2019-09-02T19:29:49+05:30</updated><subtitle>You Can Learn Anything</subtitle><entry><title>Python - Chapter 8.</title><link href="https://yclaacademy.github.io/python-chapter-8.html" rel="alternate"></link><published>2019-09-02T19:29:49+05:30</published><updated>2019-09-02T19:29:49+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-09-02:/python-chapter-8.html</id><summary type="html">&lt;p&gt;Now, we shall see python strings.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Now, we shall see python strings.&lt;/p&gt;</content></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>YCLA Academy - 12th STD CS</title><link href="https://yclaacademy.github.io/" rel="alternate"></link><link href="https://yclaacademy.github.io/feeds/12th-std-cs.atom.xml" rel="self"></link><id>https://yclaacademy.github.io/</id><updated>2019-09-02T19:29:49+05:30</updated><subtitle>You Can Learn Anything</subtitle><entry><title>12th CS Syllabus</title><link href="https://yclaacademy.github.io/12th-cs-syllabus.html" rel="alternate"></link><published>2019-02-10T14:00:00+05:30</published><updated>2019-02-10T14:00:00+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-02-10:/12th-cs-syllabus.html</id><summary type="html">&lt;p&gt;From this week onwards, we shall discuss every weekend and holidays. &lt;/p&gt;
+&lt;h2&gt;Chapter-wise videos for 12th std CS new syllabus&lt;/h2&gt;
+&lt;p&gt;Dear Student and Respected Teachers, &lt;/p&gt;
+&lt;p&gt;The videos are useful to learn/teach 12th STD new syllabus CS. 
+If you have any doubts in any of the videos then, comment on TeachForTN …&lt;/p&gt;</summary><content type="html">&lt;p&gt;From this week onwards, we shall discuss every weekend and holidays. &lt;/p&gt;
+&lt;h2&gt;Chapter-wise videos for 12th std CS new syllabus&lt;/h2&gt;
+&lt;p&gt;Dear Student and Respected Teachers, &lt;/p&gt;
+&lt;p&gt;The videos are useful to learn/teach 12th STD new syllabus CS. 
+If you have any doubts in any of the videos then, comment on TeachForTN 
+&lt;a href="https://www.youtube.com/channel/UC7AYCv3SJotZtyfNuT_UBqA?sub_confirmation=1"&gt;YouTube Channel&lt;/a&gt; 
+or &lt;a href="https://t.me/Teach4TN"&gt;@Teach4TN&lt;/a&gt; Telegram Channel or comment section below. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Data Abstraction&lt;/li&gt;
+&lt;li&gt;Scoping&lt;/li&gt;
+&lt;li&gt;Algorithmic Strategies&lt;/li&gt;
+&lt;li&gt;Python variables and operators&lt;/li&gt;
+&lt;li&gt;Control Structures&lt;/li&gt;
+&lt;li&gt;Python Functions&lt;/li&gt;
+&lt;li&gt;String and String Manipulations&lt;/li&gt;
+&lt;li&gt;Lists, Tuples, Sets and Dictionary&lt;/li&gt;
+&lt;li&gt;Python Classes and objects&lt;/li&gt;
+&lt;li&gt;Database Concepts&lt;/li&gt;
+&lt;li&gt;Structure Query Language(SQL)&lt;/li&gt;
+&lt;li&gt;Python and CSV files&lt;/li&gt;
+&lt;li&gt;Importing C++ Programs in Python&lt;/li&gt;
+&lt;li&gt;Data manipulation through SQL&lt;/li&gt;
+&lt;li&gt;Data visualization&lt;/li&gt;
+&lt;/ol&gt;</content></entry><entry><title>Python - Chapter 8.</title><link href="https://yclaacademy.github.io/python-chapter-8.html" rel="alternate"></link><published>2019-01-02T19:29:49+05:30</published><updated>2019-09-02T19:29:49+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-01-02:/python-chapter-8.html</id><summary type="html">&lt;p&gt;Now, we shall see python strings.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Now, we shall see python strings.&lt;/p&gt;</content></entry></feed>
