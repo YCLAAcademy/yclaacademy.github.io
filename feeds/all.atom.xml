@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>YCLA Academy</title><link href="https://yclaacademy.github.io/" rel="alternate"></link><link href="https://yclaacademy.github.io/feeds/all.atom.xml" rel="self"></link><id>https://yclaacademy.github.io/</id><updated>2019-09-03T03:30:39+05:30</updated><subtitle>You Can Learn Anything</subtitle><entry><title>Official Model Questions.</title><link href="https://yclaacademy.github.io/official-model-questions.html" rel="alternate"></link><published>2019-09-02T22:30:39+05:30</published><updated>2019-09-03T03:30:39+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-09-02:/official-model-questions.html</id><summary type="html">&lt;p&gt;All the model question paper for the new 12th STD Subjects are available 
-&lt;a href="http://www.tnscert.org/tnscert/old-questionpaper.php?language=LG-1&amp;amp;status=Active"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary><content type="html">&lt;p&gt;All the model question paper for the new 12th STD Subjects are available 
-&lt;a href="http://www.tnscert.org/tnscert/old-questionpaper.php?language=LG-1&amp;amp;status=Active"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>12th CS Syllabus</title><link href="https://yclaacademy.github.io/12th-cs-syllabus.html" rel="alternate"></link><published>2019-02-10T14:00:00+05:30</published><updated>2019-02-10T14:00:00+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-02-10:/12th-cs-syllabus.html</id><summary type="html">&lt;p&gt;From this week onwards, we shall discuss every weekend and holidays. &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>YCLA Academy</title><link href="https://yclaacademy.github.io/" rel="alternate"></link><link href="https://yclaacademy.github.io/feeds/all.atom.xml" rel="self"></link><id>https://yclaacademy.github.io/</id><updated>2019-09-02T19:29:49+05:30</updated><subtitle>You Can Learn Anything</subtitle><entry><title>12th CS Syllabus</title><link href="https://yclaacademy.github.io/12th-cs-syllabus.html" rel="alternate"></link><published>2019-02-10T14:00:00+05:30</published><updated>2019-02-10T14:00:00+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-02-10:/12th-cs-syllabus.html</id><summary type="html">&lt;p&gt;From this week onwards, we shall discuss every weekend and holidays. &lt;/p&gt;
 &lt;h2&gt;Chapter-wise videos for 12th std CS new syllabus&lt;/h2&gt;
 &lt;p&gt;Dear Student and Respected Teachers, &lt;/p&gt;
 &lt;p&gt;The videos are useful to learn/teach 12th STD new syllabus CS. 
@@ -29,4 +27,31 @@ or &lt;a href="https://t.me/Teach4TN"&gt;@Teach4TN&lt;/a&gt; Telegram Channel or
 &lt;li&gt;Importing C++ Programs in Python&lt;/li&gt;
 &lt;li&gt;Data manipulation through SQL&lt;/li&gt;
 &lt;li&gt;Data visualization&lt;/li&gt;
+&lt;/ol&gt;</content></entry><entry><title>YCLA Academy - GATE/TANCET/NET/TRB CS topics</title><link href="https://yclaacademy.github.io/ycla-academy-gatetancetnettrb-cs-topics.html" rel="alternate"></link><published>2019-02-10T14:00:00+05:30</published><updated>2019-02-10T14:00:00+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-02-10:/ycla-academy-gatetancetnettrb-cs-topics.html</id><summary type="html">&lt;p&gt;Dear Student and Respected Teachers, &lt;/p&gt;
+&lt;p&gt;The videos are useful to learn/teach CS concepts of GATE. 
+If you have any doubts in any of the videos then, comment on YCLA Academy 
+&lt;a href="https://www.youtube.com/YCLAAcademy?sub_confirmation=1"&gt;YouTube Channel&lt;/a&gt; 
+or &lt;a href="https://t.me/YCLAAcademy"&gt;@YCLAAcademy&lt;/a&gt; Telegram Channel or comment section below. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital Logic&lt;/li&gt;
+&lt;li&gt;Programming and DS&lt;/li&gt;
+&lt;li&gt;Algorithms&lt;/li&gt;
+&lt;li&gt;Discrete Math&lt;/li&gt;
+&lt;li&gt;DBMS …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;Dear Student and Respected Teachers, &lt;/p&gt;
+&lt;p&gt;The videos are useful to learn/teach CS concepts of GATE. 
+If you have any doubts in any of the videos then, comment on YCLA Academy 
+&lt;a href="https://www.youtube.com/YCLAAcademy?sub_confirmation=1"&gt;YouTube Channel&lt;/a&gt; 
+or &lt;a href="https://t.me/YCLAAcademy"&gt;@YCLAAcademy&lt;/a&gt; Telegram Channel or comment section below. &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital Logic&lt;/li&gt;
+&lt;li&gt;Programming and DS&lt;/li&gt;
+&lt;li&gt;Algorithms&lt;/li&gt;
+&lt;li&gt;Discrete Math&lt;/li&gt;
+&lt;li&gt;DBMS&lt;/li&gt;
+&lt;li&gt;Architecture and organization.&lt;/li&gt;
+&lt;li&gt;Theory of Computation&lt;/li&gt;
+&lt;li&gt;Operating System&lt;/li&gt;
+&lt;li&gt;Computer Network&lt;/li&gt;
+&lt;li&gt;Compilers&lt;/li&gt;
+&lt;li&gt;Engg Math&lt;/li&gt;
 &lt;/ol&gt;</content></entry><entry><title>Python - Chapter 8.</title><link href="https://yclaacademy.github.io/python-chapter-8.html" rel="alternate"></link><published>2019-01-02T19:29:49+05:30</published><updated>2019-09-02T19:29:49+05:30</updated><author><name>Rajesh Pandian M</name></author><id>tag:yclaacademy.github.io,2019-01-02:/python-chapter-8.html</id><summary type="html">&lt;p&gt;Now, we shall see python strings.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Now, we shall see python strings.&lt;/p&gt;</content></entry></feed>
